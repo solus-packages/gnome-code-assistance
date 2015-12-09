@@ -1,0 +1,38 @@
+name       : gnome-code-assistance
+version    : 3.16.0
+release    : 1
+source     :
+    - http://ftp.gnome.org/pub/gnome/sources/gnome-code-assistance/3.16/gnome-code-assistance-3.16.0.tar.xz : 47539b05a13886eca9fe0c079d3e9cee5205a9cfd45a788cdd57734990fc457e
+license    : LGPL-3.0
+summary    : Common code completion service
+description: |
+    gnome-code-assistance is a project which aims to provide common code assistance services for code editors (simple editors as well as IDEs). It is an effort to provide a centralized code-assistance as a service for the GNOME platform instead of having every editor implement their own solution.
+builddeps  :
+    - pkgconfig(libvala-0.30)
+    - pkgconfig(pygobject-3.0)
+    - pkgconfig(gee-0.8)
+    - llvm-devel
+    - python-simplejson
+    - gjs
+    - python3
+    - python3-dbus
+    - vala
+rundeps    :
+    - python-simplejson
+    - gjs
+    - python3
+    - python3-dbus
+    - python3-gobject
+setup      : |
+    # TODO: Enable go + ruby
+    %configure --disable-static \
+               --enable-c \
+               --enable-json \
+               --enable-xml \
+               --enable-vala \
+               --enable-sh \
+               --enable-python
+build      : |
+    %make
+install    : |
+    %make_install
