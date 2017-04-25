@@ -2,8 +2,8 @@
     <Source>
         <Name>gnome-code-assistance</Name>
         <Packager>
-            <Name>Ikey Doherty</Name>
-            <Email>ikey@solus-project.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Packager>
         <License>LGPL-3.0</License>
         <PartOf>desktop.gnome.doc</PartOf>
@@ -62,12 +62,6 @@
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/__init__.py</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/deps/simplejson/__init__.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/deps/simplejson/compat.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/deps/simplejson/decoder.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/deps/simplejson/encoder.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/deps/simplejson/ordered_dict.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/deps/simplejson/scanner.py</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/python/__init__.py</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/python/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/python/__pycache__/__init__.cpython-35.pyc</Path>
@@ -80,6 +74,7 @@
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/xml/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/xml/__pycache__/__init__.cpython-35.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/c</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/go</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/js</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/json</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/python</Path>
@@ -88,6 +83,7 @@
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/valahelper</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/xml</Path>
             <Path fileType="data">/usr/share/dbus-1/services/org.gnome.CodeAssist.v1.c.service</Path>
+            <Path fileType="data">/usr/share/dbus-1/services/org.gnome.CodeAssist.v1.go.service</Path>
             <Path fileType="data">/usr/share/dbus-1/services/org.gnome.CodeAssist.v1.js.service</Path>
             <Path fileType="data">/usr/share/dbus-1/services/org.gnome.CodeAssist.v1.json.service</Path>
             <Path fileType="data">/usr/share/dbus-1/services/org.gnome.CodeAssist.v1.python.service</Path>
@@ -98,12 +94,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2016-08-06</Date>
+        <Update release="4">
+            <Date>2017-04-25</Date>
             <Version>3.16.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Ikey Doherty</Name>
-            <Email>ikey@solus-project.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Update>
     </History>
 </PISI>
