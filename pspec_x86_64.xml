@@ -2,8 +2,8 @@
     <Source>
         <Name>gnome-code-assistance</Name>
         <Packager>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Pierre-Yves</Name>
+            <Email>pyu@riseup.net</Email>
         </Packager>
         <License>LGPL-3.0</License>
         <PartOf>desktop.gnome.doc</PartOf>
@@ -26,33 +26,33 @@
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/js/gnome/codeassistance/transport_dbus.js</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/js/gnome/codeassistance/types.js</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/__init__.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__init__.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/transport_dbus.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/transport_dbus.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/types.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/types.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/transport_dbus.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/transport_dbus.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/types.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/__pycache__/types.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__init__.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/clangimporter.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/clangimporter.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/config.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/config.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/makefileintegration.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/makefileintegration.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/service.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/service.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/clangimporter.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/clangimporter.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/config.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/config.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/makefileintegration.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/makefileintegration.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/service.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/__pycache__/service.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__init__.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/cindex.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/cindex.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/enumerations.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/enumerations.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/cindex.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/cindex.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/enumerations.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/__pycache__/enumerations.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/cindex.py</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clang/enumerations.py</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/clangimporter.py</Path>
@@ -60,19 +60,19 @@
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/makefileintegration.py</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/c/service.py</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/__init__.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/json/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/python/__init__.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/python/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/python/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/python/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/python/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/sh/__init__.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/sh/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/sh/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/sh/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/sh/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/transport_dbus.py</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/types.py</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/xml/__init__.py</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/xml/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/xml/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/xml/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/backends/py/gnome/codeassistance/xml/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/c</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/go</Path>
             <Path fileType="library">/usr/lib64/gnome-code-assistance/gnome-code-assistance/js</Path>
@@ -94,12 +94,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="4">
-            <Date>2017-04-25</Date>
+        <Update release="5">
+            <Date>2018-02-01</Date>
             <Version>3.16.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Pierre-Yves</Name>
+            <Email>pyu@riseup.net</Email>
         </Update>
     </History>
 </PISI>
